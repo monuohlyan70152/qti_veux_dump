@@ -1,0 +1,9 @@
+
+ro.product.vendor.brand=POCO
+ro.product.vendor.name=peux_p_in
+ro.product.vendor.device=peux
+ro.vendor.build.fingerprint=POCO/peux_p_in/peux:13/TKQ1.221114.001/V816.0.3.0.TKCMIXM:user/release-keys
+ro.product.vendor.marketname=POCO X4 Pro 5G
+ro.product.vendor.cert=2201116PI
+ro.bootimage.build.fingerprint=POCO/peux_p_in/peux:13/TKQ1.221114.001/V816.0.3.0.TKCMIXM:user/release-keys
+
