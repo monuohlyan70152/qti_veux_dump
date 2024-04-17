@@ -1,0 +1,7 @@
+on property:ro.vendor.ril.factory_id=*
+    setprop ro.ril.factory_id ${ro.vendor.ril.factory_id}
+
+    mkdir /data/anr 0775 system system encryption=Require
+    mkdir /data/tombstones/modem 0771 system system encryption=Require
+    mkdir /data/vendor/tombstones 0771 root root
+    mkdir /data/vendor/tombstones/wifi 0771 wifi wifi
