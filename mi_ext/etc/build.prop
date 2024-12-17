@@ -1,0 +1,8 @@
+ro.miui.google.csp=true
+ro.koreapre.activity=ui.activity.PrivacyPolicyActivity
+ro.product.mod_device=veux_global
+ro.koreapre.installer=com.boundax.koreapreloadappinstaller
+ro.miui.build.region=global
+ro.mi.os.version.code=1
+ro.mi.os.version.name=OS1.0
+ro.mi.os.version.incremental=OS1.0.12.0.TKCMIXM
