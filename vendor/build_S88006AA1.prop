@@ -1,0 +1,9 @@
+
+ro.product.vendor.brand=Redmi
+ro.product.vendor.name=veux
+ro.product.vendor.device=veux
+ro.vendor.build.fingerprint=Redmi/veux/veux:13/TKQ1.221114.001/V816.0.8.0.TKCJPXM:user/release-keys
+ro.product.vendor.marketname=
+ro.product.vendor.cert=2201116SG
+ro.bootimage.build.fingerprint=Redmi/veux/veux:13/TKQ1.221114.001/V816.0.8.0.TKCJPXM:user/release-keys
+

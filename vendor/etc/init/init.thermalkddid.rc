@@ -1,0 +1,12 @@
+service thermalkddid /vendor/bin/thermalkddid -num 5 -size 4194304
+	class main
+	user root
+	group system
+	disabled
+	seclabel u:r:thermalkddid:s0
+
+on property:persist.sys.thermalkddid=true
+	start thermalkddid
+
+on property:persist.sys.thermalkddid=false
+	stop thermalkddid
